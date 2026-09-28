@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.cmzlk.cn/sitemap.xml
